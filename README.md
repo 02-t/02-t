@@ -3,4 +3,4 @@
 
 Hi I'm 02_t 👋
 
-I'm an 18 yo computer nerd that likes to make simple apps and upload them here.
+I'm an 18-year-old computer nerd that likes to make simple apps and upload them here.
